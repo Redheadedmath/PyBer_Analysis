@@ -16,8 +16,10 @@ Additionally, the pie charts below clarify the breakdown of Fares, Rides and Dri
   <img src="Analysis/Fig7.png" width="275" />
 </p> 
 The Total Fare by City Type graph below depicts a breakdown of revenue earned per week by the different city types. 
+
 ![](Analysis/Pyber_fare_summary.png)
 Overall, Fares in each city type dipped at the beginning of January and experienced high points in late February. Both Urban and Suburban city revenues remained higher than the initial dip at the beginning of January throughout the 4 month period of time. Rural fares remained the steadiest, and lowest, during this time. By comparison, Suburban Fares seemed to ebb and flow over a 2 month period and Urban data seemed the most erratic while also staying the most above its initial January starting amount. <br />
-Overall, despite a bump in traffic near Valentine's Day, Fares remained steady during this period of time. 
+Overall, despite a bump in traffic near Valentine's Day, Fares remained steady during this period of time. <br />
+
 ## Summary ##
 Given the analysis
