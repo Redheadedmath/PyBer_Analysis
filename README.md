@@ -11,9 +11,9 @@ While the average fare per ride in Urban cities is much less than in Rural or Su
 For clarity sake, the upper right-most yellow dot indicates a Rural city (yellow) with a small number of drivers (circle size), that had a high Average Fare but relatively few rides. <br /> <br /> 
 Additionally, the pie charts below clarify the breakdown of Fares, Rides and Drivers by city types. <br />
 <p float="left">
-  <img src="Analysis/Fig5.png" width="200" />
-  <img src="Analysis/Fig6.png" width="200" /> 
-  <img src="Analysis/Fig7.png" width="250" />
+  <img src="Analysis/Fig5.png" width="275" />
+  <img src="Analysis/Fig6.png" width="275" /> 
+  <img src="Analysis/Fig7.png" width="275" />
 </p> 
 The Total Fare by City Type graph below depicts a breakdown of revenue earned per week by the different city types. 
 ![](Analysis/Pyber_fare_summary.png)
