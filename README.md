@@ -1,6 +1,6 @@
 # PyBer_Analysis
 ## Overview ##
-This analysis serves to explain and visualize the Pyber Ride Sharing company's overall operations and revenues. The analysis filters the company's data by 3 levels of city type: urban, suburban and rural; and, considers such parameters as number of drivers/rides per city and type, overall fares, and fares per ride or per driver. <br /> <br />
+This analysis serves to explain and visualize the Pyber Ride Sharing company's overall operations and revenues. The analysis filters the company's data by 3 levels of city type: Urban, Suburban and Rural; and, considers such parameters as number of drivers/rides per city and type, overall fares, and fares per ride or per driver. <br /> <br />
 ## Results ## 
 
 Below is an overview summary of Pyber's business operations. <br />
@@ -22,4 +22,8 @@ Overall, Fares in each city type dipped at the beginning of January and experien
 Overall, despite a bump in traffic near Valentine's Day, Fares remained steady during this period of time. <br />
 
 ## Summary ##
-Given the analysis
+Given the analysis of Pyber, the following recommendations are proposed. 
+- Increase marketing and incentives in our current Urban-ranked cities. As Urban cities provide the bulk of revenue, increasing saturation in the Urban cities would continue to improve revenues the most. Even small percentage increases in revenue here would most significantly impact our current revenue streams.
+- Continue to expand into other Urban-ranked cities. While Pyber grows and develops, increasing presence in other Urban cities would provide Pyber the revenues needed for stability.
+- While increasing presence in Rural cities would expand the Pyber brand, tapping such markets would result in very limited increases in revenue given the aforementioned constraints of Rural markets.
+- The Suburban-ranked cities provide an interesting opportunity. Given the current migration patterns of people flocking to cities within the U.S., investing in these cities will provide Pyber a sense of longevity. As these cities continue to grow and approach more Urban levels of density, the demand for ride-sharing apps will rise. If Pyber already has an infrastructure and apparent brand in these upcoming cities, then expansion in population will directly correspond to expansion in revenue streams. 
